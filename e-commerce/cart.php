@@ -64,7 +64,7 @@ require_once("include/topbar.php");
             <table class="table table-bordered text-center mb-0">
                 <thead class="bg-secondary text-dark">
                     <tr>
-                        <th>Products Item</th>
+                        <th>Products Itemler</th>
                         <th>Price</th>
                         <th>Quantity</th>
                         <th>Total</th>
